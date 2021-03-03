@@ -4,7 +4,7 @@
 #### Настройка проекта и установка всех необходимых компонентов:
 Клонирование локального репозитория:
 ```
-https://github.com/wherevlad/task-manager.git
+git clone https://github.com/wherevlad/task-manager.git
 cd task-manager/
 ```
 
